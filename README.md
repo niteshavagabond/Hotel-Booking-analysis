@@ -158,7 +158,7 @@ Q22. Which room type is in most demand and which room type generates the highest
 
 Q23.Which country has the greatest number of guests? 
 
-# Comclusion :
+# Conclusion :
 
 •	Around 61% people booked City Hotel and 39% people booked Resort Hotel. on the basis of percentage, we can assume that city hotel is more popular than Resort Hotel.
 
