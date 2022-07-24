@@ -162,44 +162,45 @@ Q23.Which country has the greatest number of guests?
 
 •	Around 61% people booked City Hotel and 39% people booked Resort Hotel. on the basis of percentage, we can assume that city hotel is more popular than Resort Hotel.
 
-•	On the basis of above chart, people prefer to stay in City Hotels for shorter duration like for 4-5 days and they prefer Resort Hotel for longer durations like for 7-14 days.
+•	People prefer to stay in City Hotels for shorter duration like for 4-5 days and they prefer Resort Hotel for longer durations like for 7-14 days.
 
 •	City Hotel booking cancellation is higher than Resort hotel.
 
-•	According above chart, every year Resort Hotels require more car parking space than City Hotel.
+•	Every year Resort Hotels require more car parking space than City Hotel.
 
-•	According to above bar charts, we can see that City Hotel generates the most revenue
+•	We can see that City Hotel generates the most revenue
 
-•	According to chart, Busiest months for hotels are July and August
+•	Busiest months for hotels are July and August
 
-•	According to above chart Resort Hotel has the highest average lead time.
+•	Resort Hotel has the highest average lead time.
 
 •	In City hotels bookings and cancellations are high during the months of May , September and October, In case of resort hotels there is not much variations in bookings and cancellations. Bookings and cancellations are highest during the month of October
 
-•	According to both charts, Higher lead time leads to high booking cancellations and lower lead time leads to low booking cancellations.
+•	Higher lead time leads to high booking cancellations and lower lead time leads to low booking cancellations.
 
-•	According to histogram chart Transient(when the booking is not part of a group or contract, and is not associated to other transient booking) customers make most bookings.
+•	Transient(when the booking is not part of a group or contract, and is not associated to other transient booking) customers make most bookings.
 
-•	According to joint chart, Most no of special requests comes from Transient customers.
+•	Most no of special requests comes from Transient customers.
 
-•	According to chart, booking cancellation is greater for Transient customers.
+•	booking cancellation is greater for Transient customers.
 
-•	According to point chart, Minimum adr per person is lowest in January for Resort Hotel and January, February and November for City hotel, these months are best deal for hotel booking.
+•	Minimum adr per person is lowest in January for Resort Hotel and January, February and November for City hotel, these months are best deal for hotel booking.
+
 •	There is a negative correlation between the Total stay and the ADR, which means as the length of total stay increases the adr decreases.
 
-•	 It is clearly seen that Price of Resort hotel are much higher and Prices of city Hotel are less fluctuating . Hence , we can conclude that Resort type hotel generates much more revenue than city hotel in busiest months i.e. July and August.
+•	It is clearly seen that Price of Resort hotel are much higher and Prices of city Hotel are less fluctuating . Hence , we can conclude that Resort type hotel generates much more revenue than city hotel in busiest months i.e. July and August.
 
-•	According above pie chart 79.11% bookings are made by TA/TO(Travel agent/Travel operators), so we can say that TA/TO distribution channel is mostly use by groups.
+•	79.11% bookings are made by TA/TO(Travel agent/Travel operators), so we can say that TA/TO distribution channel is mostly use by groups.
 
-•	According to chart, we can say that GDS(Global Distribution System) generates more revenue for City Hotel and Undefined for Resort Hotel.
+•	We can say that GDS(Global Distribution System) generates more revenue for City Hotel and Undefined for Resort Hotel.
 
 •	Most preferred deposit type is No Deposit.
 
-•	This bar graph clearly represents that most preferred meal type is 'BB' i.e. Bed and Breakfast and the least preferred one is 'FB' i.e. FB: Full Board(breakfast, lunch and dinner).
+•	Most preferred meal type is 'BB' i.e. Bed and Breakfast and the least preferred one is 'FB' i.e. FB: Full Board(breakfast, lunch and dinner).
 
 
-•	According to Customer Retention Graph, Transient Customer is more loyal in both hotels but City Hotel's Transient Customers are more loyal compared to Resort Hotel's Transient Customers.
+•	Transient Customer is more loyal in both hotels but City Hotel's Transient Customers are more loyal compared to Resort Hotel's Transient Customers.
 
-•	According to above histogram chart most demanding room is** A (Room with discount available)** type but according to above bar chart H (Complimentary use of health facilities) room type is generates greatest ADR.
+•	Most demanding room is** A (Room with discount available)** type but according to above bar chart H (Complimentary use of health facilities) room type is generates greatest ADR.
 
-•	On the basis on map and chart we can say that most guests come from Southern Europe and Portugal has the greatest number of guests.
+•	Most guests come from Southern Europe and Portugal has the greatest number of guests.
